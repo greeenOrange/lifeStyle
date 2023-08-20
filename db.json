@@ -1,289 +1,285 @@
 {
   "products": [
       {
-        "mens": [
-          {
-            "id": "1",
-            "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2022/03/SIFa020606.JPG",
-            "url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-18",
-            "title": "Mens Polo Shirt",
-            "title_url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-18",
-            "price": "TK 1,135",
-            "description": "A stylish and comfortable polo shirt for casual wear.",
-            "category": "Men's Polo Shirts",
-            "size": [
-                "S",
-                "M",
-                "L",
-                "XL"
-            ],
-            "colors": [
-                "Black",
-                "White",
-                "Blue"
-            ],
-            "stock_status": "In Stock",
-            "reviews": [
-                {
-                    "username": "casualFashionista",
-                    "rating": 5,
-                    "comment": "Love the fit and quality of this polo shirt."
-                },
-                {
-                    "username": "weekendExplorer",
-                    "rating": 4,
-                    "comment": "Great for outings and weekend gatherings."
-                }
-            ],
-            "product_code": "Polo-001"
-        },
-        {
-            "id": "2",
-            "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2022/03/kcFsQ20906.JPG",
-            "url": "https://www.rise-brand.com/product-detail/men-s-polo-shirt-3",
-            "title": "Mens Polo Shirt",
-            "title_url": "https://www.rise-brand.com/product-detail/men-s-polo-shirt-3",
-            "price": "TK 1,275",
-            "description": "A versatile and stylish polo shirt for casual occasions.",
-            "category": "Men's Polo Shirts",
-            "size": [
-                "S",
-                "M",
-                "L",
-                "XL"
-            ],
-            "colors": [
-                "Navy Blue",
-                "Gray",
-                "Green"
-            ],
-            "stock_status": "In Stock",
-            "reviews": [
-                {
-                    "username": "fashionEnthusiast",
-                    "rating": 5,
-                    "comment": "Absolutely love the design and comfort."
-                },
-                {
-                    "username": "casualChic",
-                    "rating": 4,
-                    "comment": "Great addition to my casual wardrobe."
-                }
-            ],
-            "product_code": "Polo-002"
-        },
-        {
-            "id": "3",
-            "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/05/Y05rIKs4uMVDZgOek3UDMn18yjWvY6rVw14Sy37P.jpg",
-            "url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-11",
-            "title": "Mens Polo Shirt",
-            "title_url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-11",
-            "price": "TK 1,275",
-            "description": "A stylish polo shirt with a modern twist.",
-            "category": "Men's Polo Shirts",
-            "size": [
-                "S",
-                "M",
-                "L",
-                "XL"
-            ],
-            "colors": [
-                "Black",
-                "Red",
-                "White"
-            ],
-            "stock_status": "In Stock",
-            "reviews": [
-                {
-                    "username": "trendsetter123",
-                    "rating": 4,
-                    "comment": "Received many compliments wearing this shirt."
-                },
-                {
-                    "username": "fashionForward",
-                    "rating": 5,
-                    "comment": "Impressed with the quality and fit."
-                }
-            ],
-            "product_code": "Polo-003"
-        },
-        {
-            "id": "4",
-            "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/02/tqjFnJZPwMaIElqPApRkpwTCAs1VEP93r9JIdbDs.jpg",
-            "url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-7",
-            "title": "Mens Polo Shirt",
-            "title_url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-7",
-            "price": "TK 1,275",
-            "description": "A classic polo shirt for everyday wear.",
-            "category": "Men's Polo Shirts",
-            "size": [
-                "S",
-                "M",
-                "L",
-                "XL"
-            ],
-            "colors": [
-                "Navy",
-                "White",
-                "Gray"
-            ],
-            "stock_status": "In Stock",
-            "reviews": [
-                {
-                    "username": "casualDresser",
-                    "rating": 4,
-                    "comment": "Comfortable and versatile."
-                },
-                {
-                    "username": "easygoingGuy",
-                    "rating": 5,
-                    "comment": "Love the fit and quality."
-                }
-            ],
-            "product_code": "Polo-004"
-        },
-        {
-            "id": "5",
-            "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/02/GmHeKpRKZSx75dXWVBuM14yrQjMYuOhhbRsZGpYa.jpg",
-            "url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-8",
-            "title": "Mens Polo Shirt",
-            "title_url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-8",
-            "price": "TK 1,275",
-            "description": "A stylish polo shirt with a modern twist.",
-            "category": "Men's Polo Shirts",
-            "size": [
-                "S",
-                "M",
-                "L",
-                "XL"
-            ],
-            "colors": [
-                "Black",
-                "White",
-                "Red"
-            ],
-            "stock_status": "In Stock",
-            "reviews": [
-                {
-                    "username": "fashionEnthusiast",
-                    "rating": 5,
-                    "comment": "Great design and quality."
-                },
-                {
-                    "username": "trendyGuy",
-                    "rating": 4,
-                    "comment": "Received compliments wearing this."
-                }
-            ],
-            "product_code": "Polo-005"
-        },
-        {
-            "id": "6",
-            "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/02/rmrf16SlgufJ70dJ3dFm1obFfzEj8ThdOLR1cvMW.jpg",
-            "url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-10",
-            "title": "Mens Polo Shirt",
-            "title_url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-10",
-            "price": "TK 1,275",
-            "description": "A comfortable and versatile polo shirt.",
-            "category": "Men's Polo Shirts",
-            "size": [
-                "S",
-                "M",
-                "L",
-                "XL"
-            ],
-            "colors": [
-                "Blue",
-                "Gray",
-                "White"
-            ],
-            "stock_status": "In Stock",
-            "reviews": [
-                {
-                    "username": "casualStyle",
-                    "rating": 4,
-                    "comment": "Perfect for casual outings."
-                },
-                {
-                    "username": "everydayWearer",
-                    "rating": 5,
-                    "comment": "Love the fit and feel."
-                }
-            ],
-            "product_code": "Polo-006"
-        },
-        {
-            "id": "7",
-            "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2022/06/GeteY07405.JPG",
-            "url": "https://www.rise-brand.com/product-detail/men-s-polo-shirt-5",
-            "title": "Men's Polo Shirt",
-            "title_url": "https://www.rise-brand.com/product-detail/men-s-polo-shirt-5",
-            "price": "TK 1,135",
-            "description": "A classic men's polo shirt with a comfortable fit.",
-            "category": "Men's Polo Shirts",
-            "size": [
-                "S",
-                "M",
-                "L",
-                "XL"
-            ],
-            "colors": [
-                "Black",
-                "Gray",
-                "Navy"
-            ],
-            "stock_status": "In Stock",
-            "reviews": [
-                {
-                    "username": "classicLover",
-                    "rating": 4,
-                    "comment": "Great shirt for everyday wear."
-                },
-                {
-                    "username": "stylishMan",
-                    "rating": 5,
-                    "comment": "Elevates my casual style."
-                }
-            ],
-            "product_code": "Polo-007"
-        },
-        {
-            "id": "8",
-            "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2022/06/zXUcl07905.JPG",
-            "url": "https://www.rise-brand.com/product-detail/men-s-polo-shirt-8",
-            "title": "Men's Polo Shirt",
-            "title_url": "https://www.rise-brand.com/product-detail/men-s-polo-shirt-8",
-            "price": "TK 1,135",
-            "description": "A classic and comfortable men's polo shirt.",
-            "category": "Men's Polo Shirts",
-            "size": [
-                "S",
-                "M",
-                "L",
-                "XL"
-            ],
-            "colors": [
-                "Black",
-                "Gray",
-                "Red"
-            ],
-            "stock_status": "In Stock",
-            "reviews": [
-                {
-                    "username": "poloEnthusiast",
-                    "rating": 5,
-                    "comment": "Love the fit and quality."
-                },
-                {
-                    "username": "styleSeeker",
-                    "rating": 4,
-                    "comment": "Great value for the price."
-                }
-            ],
-            "product_code": "Polo-009"
-        }
-      ]
-    }
+          "id": "1",
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2022/03/SIFa020606.JPG",
+          "url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-18",
+          "title": "Mens Polo Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-18",
+          "price": "TK 1,135",
+          "description": "A stylish and comfortable polo shirt for casual wear.",
+          "category": "Men's Polo Shirts",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Black",
+              "White",
+              "Blue"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "casualFashionista",
+                  "rating": 5,
+                  "comment": "Love the fit and quality of this polo shirt."
+              },
+              {
+                  "username": "weekendExplorer",
+                  "rating": 4,
+                  "comment": "Great for outings and weekend gatherings."
+              }
+          ],
+          "product_code": "Polo-001"
+      },
+      {
+          "id": "2",
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2022/03/kcFsQ20906.JPG",
+          "url": "https://www.rise-brand.com/product-detail/men-s-polo-shirt-3",
+          "title": "Mens Polo Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/men-s-polo-shirt-3",
+          "price": "TK 1,275",
+          "description": "A versatile and stylish polo shirt for casual occasions.",
+          "category": "Men's Polo Shirts",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Navy Blue",
+              "Gray",
+              "Green"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "fashionEnthusiast",
+                  "rating": 5,
+                  "comment": "Absolutely love the design and comfort."
+              },
+              {
+                  "username": "casualChic",
+                  "rating": 4,
+                  "comment": "Great addition to my casual wardrobe."
+              }
+          ],
+          "product_code": "Polo-002"
+      },
+      {
+          "id": "3",
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/05/Y05rIKs4uMVDZgOek3UDMn18yjWvY6rVw14Sy37P.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-11",
+          "title": "Mens Polo Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-11",
+          "price": "TK 1,275",
+          "description": "A stylish polo shirt with a modern twist.",
+          "category": "Men's Polo Shirts",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Black",
+              "Red",
+              "White"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "trendsetter123",
+                  "rating": 4,
+                  "comment": "Received many compliments wearing this shirt."
+              },
+              {
+                  "username": "fashionForward",
+                  "rating": 5,
+                  "comment": "Impressed with the quality and fit."
+              }
+          ],
+          "product_code": "Polo-003"
+      },
+      {
+          "id": "4",
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/02/tqjFnJZPwMaIElqPApRkpwTCAs1VEP93r9JIdbDs.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-7",
+          "title": "Mens Polo Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-7",
+          "price": "TK 1,275",
+          "description": "A classic polo shirt for everyday wear.",
+          "category": "Men's Polo Shirts",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Navy",
+              "White",
+              "Gray"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "casualDresser",
+                  "rating": 4,
+                  "comment": "Comfortable and versatile."
+              },
+              {
+                  "username": "easygoingGuy",
+                  "rating": 5,
+                  "comment": "Love the fit and quality."
+              }
+          ],
+          "product_code": "Polo-004"
+      },
+      {
+          "id": "5",
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/02/GmHeKpRKZSx75dXWVBuM14yrQjMYuOhhbRsZGpYa.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-8",
+          "title": "Mens Polo Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-8",
+          "price": "TK 1,275",
+          "description": "A stylish polo shirt with a modern twist.",
+          "category": "Men's Polo Shirts",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Black",
+              "White",
+              "Red"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "fashionEnthusiast",
+                  "rating": 5,
+                  "comment": "Great design and quality."
+              },
+              {
+                  "username": "trendyGuy",
+                  "rating": 4,
+                  "comment": "Received compliments wearing this."
+              }
+          ],
+          "product_code": "Polo-005"
+      },
+      {
+          "id": "6",
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/02/rmrf16SlgufJ70dJ3dFm1obFfzEj8ThdOLR1cvMW.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-10",
+          "title": "Mens Polo Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-10",
+          "price": "TK 1,275",
+          "description": "A comfortable and versatile polo shirt.",
+          "category": "Men's Polo Shirts",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Blue",
+              "Gray",
+              "White"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "casualStyle",
+                  "rating": 4,
+                  "comment": "Perfect for casual outings."
+              },
+              {
+                  "username": "everydayWearer",
+                  "rating": 5,
+                  "comment": "Love the fit and feel."
+              }
+          ],
+          "product_code": "Polo-006"
+      },
+      {
+          "id": "7",
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2022/06/GeteY07405.JPG",
+          "url": "https://www.rise-brand.com/product-detail/men-s-polo-shirt-5",
+          "title": "Men's Polo Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/men-s-polo-shirt-5",
+          "price": "TK 1,135",
+          "description": "A classic men's polo shirt with a comfortable fit.",
+          "category": "Men's Polo Shirts",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Black",
+              "Gray",
+              "Navy"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "classicLover",
+                  "rating": 4,
+                  "comment": "Great shirt for everyday wear."
+              },
+              {
+                  "username": "stylishMan",
+                  "rating": 5,
+                  "comment": "Elevates my casual style."
+              }
+          ],
+          "product_code": "Polo-007"
+      },
+      {
+          "id": "8",
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2022/06/zXUcl07905.JPG",
+          "url": "https://www.rise-brand.com/product-detail/men-s-polo-shirt-8",
+          "title": "Men's Polo Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/men-s-polo-shirt-8",
+          "price": "TK 1,135",
+          "description": "A classic and comfortable men's polo shirt.",
+          "category": "Men's Polo Shirts",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Black",
+              "Gray",
+              "Red"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "poloEnthusiast",
+                  "rating": 5,
+                  "comment": "Love the fit and quality."
+              },
+              {
+                  "username": "styleSeeker",
+                  "rating": 4,
+                  "comment": "Great value for the price."
+              }
+          ],
+          "product_code": "Polo-009"
+      }
 
   ]
 }
