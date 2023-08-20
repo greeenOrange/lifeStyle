@@ -1,251 +1,1796 @@
 {
-  "products":[
-    { "id": 1,
-      "name": "Classic Denim Jeans",
-      "description": "High-quality denim jeans for everyday wear.",
-      "price": 49.99,
-      "images": [
-        "https://example.com/images/jeans1.jpg",
-        "https://example.com/images/jeans2.jpg",
-        "https://example.com/images/jeans3.jpg"
-      ],
-      "category": ["Men", "Women"],
-      "colors": ["Blue", "Black", "Gray"],
-      "sizes": ["28", "30", "32", "34", "36"]
-    },
-    { "id": 2,
-      "name": "Elegant Party Dress",
-      "description": "A stunning dress perfect for parties and special occasions.",
-      "price": 89.99,
-      "images": [
-        "https://example.com/images/dress1.jpg",
-        "https://example.com/images/dress2.jpg",
-        "https://example.com/images/dress3.jpg"
-      ],
-      "category": ["Women"],
-      "colors": ["Red", "Black", "White"],
-      "sizes": ["Small", "Medium", "Large"]
-    },
-    { "id": 3,
-      "name": "Casual Printed T-Shirt",
-      "description": "Comfortable and stylish t-shirt with unique prints.",
-      "price": 24.99,
-      "images": [
-        "https://example.com/images/tshirt1.jpg",
-        "https://example.com/images/tshirt2.jpg",
-        "https://example.com/images/tshirt3.jpg"
-      ],
-      "category": ["Men", "Women"],
-      "colors": ["White", "Black", "Gray"],
-      "sizes": ["XS", "S", "M", "L", "XL"]
-    },
-    { "id": 4,
-      "name": "Cozy Knit Sweater",
-      "description": "Warm and cozy sweater for chilly days.",
-      "price": 39.99,
-      "images": [
-        "https://example.com/images/sweater1.jpg",
-        "https://example.com/images/sweater2.jpg",
-        "https://example.com/images/sweater3.jpg"
-      ],
-      "category": ["Women"],
-      "colors": ["Pink", "Gray", "Beige"],
-      "sizes": ["Small", "Medium", "Large"]
-    },
-    { "id": 5,
-      "name": "Formal Business Suit",
-      "description": "Sophisticated business suit for professional occasions.",
-      "price": 199.99,
-      "images": [
-        "https://example.com/images/suit1.jpg",
-        "https://example.com/images/suit2.jpg",
-        "https://example.com/images/suit3.jpg"
-      ],
-      "category": ["Men"],
-      "colors": ["Navy", "Charcoal", "Black"],
-      "sizes": ["40R", "42R", "44R", "46R"]
-    },
-    { "id": 6,
-      "name": "Floral Maxi Dress",
-      "description": "A flowy and elegant maxi dress with floral patterns.",
-      "price": 79.99,
-      "images": [
-        "https://example.com/images/maxidress1.jpg",
-        "https://example.com/images/maxidress2.jpg",
-        "https://example.com/images/maxidress3.jpg"
-      ],
-      "category": ["Women"],
-      "colors": ["Yellow", "Green", "Blue"],
-      "sizes": ["Small", "Medium", "Large"]
-    },
-    { "id": 7,
-      "name": "Leather Biker Jacket",
-      "description": "A stylish leather jacket for a trendy biker look.",
-      "price": 149.99,
-      "images": [
-        "https://example.com/images/jacket1.jpg",
-        "https://example.com/images/jacket2.jpg",
-        "https://example.com/images/jacket3.jpg"
-      ],
-      "category": ["Men", "Women"],
-      "colors": ["Black", "Brown"],
-      "sizes": ["XS", "S", "M", "L", "XL"]
-    },
-    { "id": 8,
-      "name": "Athletic Running Shoes",
-      "description": "High-performance running shoes for sports enthusiasts.",
-      "price": 69.99,
-      "images": [
-        "https://example.com/images/shoes1.jpg",
-        "https://example.com/images/shoes2.jpg",
-        "https://example.com/images/shoes3.jpg"
-      ],
-      "category": ["Men", "Women"],
-      "colors": ["Black", "White", "Blue"],
-      "sizes": ["US 7", "US 8", "US 9", "US 10", "US 11"]
-    },
-    { "id": 9,
-      "name": "Cotton Button-Down Shirt",
-      "description": "Casual and comfortable button-down shirt made from soft cotton.",
-      "price": 34.99,
-      "images": [
-        "https://example.com/images/shirt1.jpg",
-        "https://example.com/images/shirt2.jpg",
-        "https://example.com/images/shirt3.jpg"
-      ],
-      "category": ["Men"],
-      "colors": ["White", "Blue", "Striped"],
-      "sizes": ["Small", "Medium", "Large"]
-    },
-    { "id": 10,
-      "name": "Flowy Boho Skirt",
-      "description": "Bohemian-style flowy skirt for a relaxed and chic look.",
-      "price": 54.99,
-      "images": [
-        "https://example.com/images/skirt1.jpg",
-        "https://example.com/images/skirt2.jpg",
-        "https://example.com/images/skirt3.jpg"
-      ],
-      "category": ["Women"],
-      "colors": ["Purple", "Brown", "Patterned"],
-      "sizes": ["Small", "Medium", "Large"]
-    },
-    { "id": 11,
-      "name": "Hooded Sweatshirt",
-      "description": "A comfortable and warm hooded sweatshirt for casual outings.",
-      "price": 29.99,
-      "images": [
-        "https://example.com/images/sweatshirt1.jpg",
-        "https://example.com/images/sweatshirt2.jpg",
-        "https://example.com/images/sweatshirt3.jpg"
-      ],
-      "category": ["Men", "Women"],
-      "colors": ["Gray", "Black", "Navy"],
-      "sizes": ["XS", "S", "M", "L", "XL"]
-    },
-    { "id": 12,
-      "name": "Striped Polo Shirt",
-      "description": "Classic striped polo shirt for a timeless look.",
-      "price": 39.99,
-      "images": [
-        "https://example.com/images/polo1.jpg",
-        "https://example.com/images/polo2.jpg",
-        "https://example.com/images/polo3.jpg"
-      ],
-      "category": ["Men", "Women"],
-      "colors": ["Navy/White", "Red/White", "Black/White"],
-      "sizes": ["XS", "S", "M", "L", "XL"]
-    },
-    { "id": 13,
-      "name": "Sleeveless Summer Dress",
-      "description": "Light and breezy sleeveless dress for hot summer days.",
-      "price": 49.99,
-      "images": [
-        "https://example.com/images/summerdress1.jpg",
-        "https://example.com/images/summerdress2.jpg",
-        "https://example.com/images/summerdress3.jpg"
-      ],
-      "category": ["Women"],
-      "colors": ["Blue", "Yellow", "White"],
-      "sizes": ["Small", "Medium", "Large"]
-    },
-    { "id": 14,
-      "name": "Rugged Cargo Shorts",
-      "description": "Durable and functional cargo shorts for outdoor adventures.",
-      "price": 39.99,
-      "images": [
-        "https://example.com/images/shorts1.jpg",
-        "https://example.com/images/shorts2.jpg",
-        "https://example.com/images/shorts3.jpg"
-      ],
-      "category": ["Men"],
-      "colors": ["Khaki", "Green", "Gray"],
-      "sizes": ["30", "32", "34", "36", "38"]
-    },
-    { "id": 15,
-      "name": "Fitted Blazer",
-      "description": "A well-tailored blazer to add sophistication to your outfit.",
-      "price": 79.99,
-      "images": [
-        "https://example.com/images/blazer1.jpg",
-        "https://example.com/images/blazer2.jpg",
-        "https://example.com/images/blazer3.jpg"
-      ],
-      "category": ["Women"],
-      "colors": ["Black", "Navy", "Gray"],
-      "sizes": ["Small", "Medium", "Large"]
-    },
-    { "id": 16,
-      "name": "Printed Graphic Sweatshirt",
-      "description": "A trendy sweatshirt featuring eye-catching graphic prints.",
-      "price": 44.99,
-      "images": [
-        "https://example.com/images/graphic1.jpg",
-        "https://example.com/images/graphic2.jpg",
-        "https://example.com/images/graphic3.jpg"
-      ],
-      "category": ["Men", "Women"],
-      "colors": ["White", "Black", "Gray"],
-      "sizes": ["XS", "S", "M", "L", "XL"]
-    },
-    { "id": 17,
-      "name": "Knit Beanie Hat",
-      "description": "Cozy knit beanie hat to keep you warm in the winter.",
-      "price": 19.99,
-      "images": [
-        "https://example.com/images/beanie1.jpg",
-        "https://example.com/images/beanie2.jpg",
-        "https://example.com/images/beanie3.jpg"
-      ],
-      "category": ["Men", "Women"],
-      "colors": ["Black", "Gray", "Navy"],
-      "sizes": ["One Size"]
-    },
-    { "id": 18,
-      "name": "Casual Linen Shorts",
-      "description": "Lightweight and breathable linen shorts for a laid-back look.",
-      "price": 34.99,
-      "images": [
-        "https://example.com/images/linenshorts1.jpg",
-        "https://example.com/images/linenshorts2.jpg",
-        "https://example.com/images/linenshorts3.jpg"
-      ],
-      "category": ["Men", "Women"],
-      "colors": ["Beige", "White", "Blue"],
-      "sizes": ["30", "32", "34", "36"]
-    },
-    { "id": 19,
-      "name": "Bohemian Fringed Bag",
-      "description": "A boho-chic fringed bag to complete your festival look.",
-      "price": 29.99,
-      "images": [
-        "https://example.com/images/fringebag1.jpg",
-        "https://example.com/images/fringebag2.jpg",
-        "https://example.com/images/fringebag3.jpg"
-      ],
-      "category": ["Women"],
-      "colors": ["Brown", "Black", "Tan"],
-      "sizes": ["One Size"]
-    }
+  "poloTShirts": [
+      {
+          "id": "1",
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2022/03/SIFa020606.JPG",
+          "url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-18",
+          "title": "Mens Polo Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-18",
+          "price": "TK 1,135",
+          "description": "A stylish and comfortable polo shirt for casual wear.",
+          "category": "Men's Polo Shirts",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Black",
+              "White",
+              "Blue"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "casualFashionista",
+                  "rating": 5,
+                  "comment": "Love the fit and quality of this polo shirt."
+              },
+              {
+                  "username": "weekendExplorer",
+                  "rating": 4,
+                  "comment": "Great for outings and weekend gatherings."
+              }
+          ],
+          "product_code": "Polo-001"
+      },
+      {
+          "id": "2",
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2022/03/kcFsQ20906.JPG",
+          "url": "https://www.rise-brand.com/product-detail/men-s-polo-shirt-3",
+          "title": "Mens Polo Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/men-s-polo-shirt-3",
+          "price": "TK 1,275",
+          "description": "A versatile and stylish polo shirt for casual occasions.",
+          "category": "Men's Polo Shirts",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Navy Blue",
+              "Gray",
+              "Green"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "fashionEnthusiast",
+                  "rating": 5,
+                  "comment": "Absolutely love the design and comfort."
+              },
+              {
+                  "username": "casualChic",
+                  "rating": 4,
+                  "comment": "Great addition to my casual wardrobe."
+              }
+          ],
+          "product_code": "Polo-002"
+      },
+      {
+          "id": "3",
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/05/Y05rIKs4uMVDZgOek3UDMn18yjWvY6rVw14Sy37P.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-11",
+          "title": "Mens Polo Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-11",
+          "price": "TK 1,275",
+          "description": "A stylish polo shirt with a modern twist.",
+          "category": "Men's Polo Shirts",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Black",
+              "Red",
+              "White"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "trendsetter123",
+                  "rating": 4,
+                  "comment": "Received many compliments wearing this shirt."
+              },
+              {
+                  "username": "fashionForward",
+                  "rating": 5,
+                  "comment": "Impressed with the quality and fit."
+              }
+          ],
+          "product_code": "Polo-003"
+      },
+      {
+          "id": "4",
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/02/tqjFnJZPwMaIElqPApRkpwTCAs1VEP93r9JIdbDs.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-7",
+          "title": "Mens Polo Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-7",
+          "price": "TK 1,275",
+          "description": "A classic polo shirt for everyday wear.",
+          "category": "Men's Polo Shirts",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Navy",
+              "White",
+              "Gray"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "casualDresser",
+                  "rating": 4,
+                  "comment": "Comfortable and versatile."
+              },
+              {
+                  "username": "easygoingGuy",
+                  "rating": 5,
+                  "comment": "Love the fit and quality."
+              }
+          ],
+          "product_code": "Polo-004"
+      },
+      {
+          "id": "5",
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/02/GmHeKpRKZSx75dXWVBuM14yrQjMYuOhhbRsZGpYa.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-8",
+          "title": "Mens Polo Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-8",
+          "price": "TK 1,275",
+          "description": "A stylish polo shirt with a modern twist.",
+          "category": "Men's Polo Shirts",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Black",
+              "White",
+              "Red"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "fashionEnthusiast",
+                  "rating": 5,
+                  "comment": "Great design and quality."
+              },
+              {
+                  "username": "trendyGuy",
+                  "rating": 4,
+                  "comment": "Received compliments wearing this."
+              }
+          ],
+          "product_code": "Polo-005"
+      },
+      {
+          "id": "6",
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/02/rmrf16SlgufJ70dJ3dFm1obFfzEj8ThdOLR1cvMW.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-10",
+          "title": "Mens Polo Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-polo-shirt-10",
+          "price": "TK 1,275",
+          "description": "A comfortable and versatile polo shirt.",
+          "category": "Men's Polo Shirts",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Blue",
+              "Gray",
+              "White"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "casualStyle",
+                  "rating": 4,
+                  "comment": "Perfect for casual outings."
+              },
+              {
+                  "username": "everydayWearer",
+                  "rating": 5,
+                  "comment": "Love the fit and feel."
+              }
+          ],
+          "product_code": "Polo-006"
+      },
+      {
+          "id": "7",
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2022/06/GeteY07405.JPG",
+          "url": "https://www.rise-brand.com/product-detail/men-s-polo-shirt-5",
+          "title": "Men's Polo Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/men-s-polo-shirt-5",
+          "price": "TK 1,135",
+          "description": "A classic men's polo shirt with a comfortable fit.",
+          "category": "Men's Polo Shirts",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Black",
+              "Gray",
+              "Navy"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "classicLover",
+                  "rating": 4,
+                  "comment": "Great shirt for everyday wear."
+              },
+              {
+                  "username": "stylishMan",
+                  "rating": 5,
+                  "comment": "Elevates my casual style."
+              }
+          ],
+          "product_code": "Polo-007"
+      },
+      {
+          "id": "8",
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2022/06/zXUcl07905.JPG",
+          "url": "https://www.rise-brand.com/product-detail/men-s-polo-shirt-8",
+          "title": "Men's Polo Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/men-s-polo-shirt-8",
+          "price": "TK 1,135",
+          "description": "A classic and comfortable men's polo shirt.",
+          "category": "Men's Polo Shirts",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Black",
+              "Gray",
+              "Red"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "poloEnthusiast",
+                  "rating": 5,
+                  "comment": "Love the fit and quality."
+              },
+              {
+                  "username": "styleSeeker",
+                  "rating": 4,
+                  "comment": "Great value for the price."
+              }
+          ],
+          "product_code": "Polo-009"
+      }
+  ],
+  "shirts": [
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/03/Zvjcve6J6yPCGXqaMZfwAqEohnxRXt2Tql1lIFfA.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-formal-shirt-15",
+          "title": "Mens Formal Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-formal-shirt-15",
+          "price": "TK 1,895",
+          "description": "A stylish and sophisticated men's formal shirt.",
+          "category": "Men's Formal Wear",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "White",
+              "Blue",
+              "Black"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "formalAttire",
+                  "rating": 5,
+                  "comment": "Perfect for business events."
+              },
+              {
+                  "username": "elegantGent",
+                  "rating": 4,
+                  "comment": "Impressive design and quality."
+              }
+          ],
+          "product_code": "Formal-009"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/03/3x5qBZEjjNb2IU28wg3QtN5YLTn1nzEWfp6QwGjS.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-formal-shirt-11",
+          "title": "Mens Formal Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-formal-shirt-11",
+          "price": "TK 1,895",
+          "description": "A classic formal shirt for professional occasions.",
+          "category": "Men's Formal Wear",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "White",
+              "Blue",
+              "Black"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "professional123",
+                  "rating": 5,
+                  "comment": "Great quality and fits perfectly."
+              },
+              {
+                  "username": "businessExec",
+                  "rating": 4,
+                  "comment": "Very comfortable for long meetings."
+              }
+          ],
+          "product_code": "Formal-010"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/03/E3pQA6CFodcG0eYqlvHnqp05BVawSJLoBejWSZUO.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-formal-shirt-10",
+          "title": "Mens Formal Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-formal-shirt-10",
+          "price": "TK 1,895",
+          "description": "A formal shirt with a touch of elegance.",
+          "category": "Men's Formal Wear",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "White",
+              "Blue",
+              "Gray"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "formalAfficionado",
+                  "rating": 5,
+                  "comment": "Classy and comfortable."
+              },
+              {
+                  "username": "eventDresser",
+                  "rating": 4,
+                  "comment": "Received many compliments wearing this."
+              }
+          ],
+          "product_code": "Formal-011"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/04/QhXFrYzKHwoJSWeL5SLre05UMywcqsXIIaeMyrYy.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-formal-shirt-17",
+          "title": "Mens Formal Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-formal-shirt-17",
+          "price": "TK 1,895",
+          "description": "A stylish formal shirt for special occasions.",
+          "category": "Men's Formal Wear",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "White",
+              "Black",
+              "Red"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "elegantGent",
+                  "rating": 5,
+                  "comment": "Impressive design and quality."
+              },
+              {
+                  "username": "sophisticatedDresser",
+                  "rating": 4,
+                  "comment": "Perfect fit and great fabric."
+              }
+          ],
+          "product_code": "Formal-012"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/04/76HbhjHSkpWwiOhW2t871ZoI0oR7OMG9hPj229mO.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-formal-shirt-16",
+          "title": "Mens Formal Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-formal-shirt-16",
+          "price": "TK 1,895",
+          "description": "Sophisticated formal shirt for special occasions.",
+          "category": "Men's Formal Wear",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "White",
+              "Blue",
+              "Gray"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "formalAfficionado",
+                  "rating": 5,
+                  "comment": "Classy and comfortable."
+              },
+              {
+                  "username": "eventDresser",
+                  "rating": 4,
+                  "comment": "Received many compliments wearing this."
+              }
+          ],
+          "product_code": "Formal-013"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/03/g0MzZRjXrGwIbi7NG43jGp8CPSngTYfMRHyqP7fi.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-formal-shirt-14",
+          "title": "Mens Formal Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-formal-shirt-14",
+          "price": "TK 1,895",
+          "description": "Elegant formal shirt with a modern touch.",
+          "category": "Men's Formal Wear",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "White",
+              "Black",
+              "Blue"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "formalAfficionado",
+                  "rating": 5,
+                  "comment": "Classy and comfortable."
+              },
+              {
+                  "username": "eventDresser",
+                  "rating": 4,
+                  "comment": "Received many compliments wearing this."
+              }
+          ],
+          "product_code": "Formal-014"
+      }
+  ],
+  "tShirts": [
+      {
+          "image": "https://fashionstyle-bd.com/upload/service/1656924096.jpg",
+          "title": "Mens T-Shirt",
+          "price": "TK 835",
+          "description": "Casual and comfortable t-shirt for everyday wear.",
+          "category": "Men's Casual Wear",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Black",
+              "White",
+              "Gray"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "casualGuy",
+                  "rating": 4,
+                  "comment": "Great fit and good quality."
+              },
+              {
+                  "username": "styleEnthusiast",
+                  "rating": 5,
+                  "comment": "Love the design and fabric."
+              }
+          ],
+          "product_code": "Tshirt-001"
+      },
+      {
+          "image": "https://fashionstyle-bd.com/upload/service/1656924224.jpg",
+          "title": "Mens T-Shirt",
+          "price": "TK 835",
+          "description": "Simple and stylish t-shirt for casual occasions.",
+          "category": "Men's Casual Wear",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Navy Blue",
+              "White",
+              "Red"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "casualChic",
+                  "rating": 5,
+                  "comment": "Comfortable and versatile."
+              },
+              {
+                  "username": "fashionFanatic",
+                  "rating": 4,
+                  "comment": "Good value for the price."
+              }
+          ],
+          "product_code": "Tshirt-002"
+      },
+      {
+          "image": "https://fashionstyle-bd.com/upload/service/1656924248.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-t-shirt-168",
+          "title": "Mens T Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-t-shirt-168",
+          "price": "TK 875",
+          "description": "Classic t-shirt with a modern twist.",
+          "category": "Men's Casual Wear",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Black",
+              "Gray",
+              "Green"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "trendyGuy",
+                  "rating": 4,
+                  "comment": "Great fit and unique design."
+              },
+              {
+                  "username": "styleSeeker",
+                  "rating": 5,
+                  "comment": "Received compliments on this t-shirt."
+              }
+          ],
+          "product_code": "Tshirt-003"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/07/OriWj0E2hAJr069YPq95VSKzHB82mrI3xy82wYnZ.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-t-shirt-167",
+          "title": "Mens T Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-t-shirt-167",
+          "price": "TK 875",
+          "description": "Modern and comfortable t-shirt with a unique design.",
+          "category": "Men's Casual Wear",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "White",
+              "Blue",
+              "Yellow"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "fashionForward",
+                  "rating": 5,
+                  "comment": "Love the design and quality."
+              },
+              {
+                  "username": "styleEnthusiast",
+                  "rating": 4,
+                  "comment": "Great addition to my wardrobe."
+              }
+          ],
+          "product_code": "Tshirt-004"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/04/mQilGiyXKnNUIAQVsjmibP43UrQRNFzuxxZpdi4W.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-t-shirt-166",
+          "title": "Mens T Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-t-shirt-166",
+          "price": "TK 875",
+          "description": "Stylish t-shirt with a modern print.",
+          "category": "Men's Casual Wear",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Black",
+              "Gray",
+              "Red"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "trendsetter",
+                  "rating": 4,
+                  "comment": "Unique design and comfortable fit."
+              },
+              {
+                  "username": "fashionLover",
+                  "rating": 5,
+                  "comment": "Received many compliments wearing this."
+              }
+          ],
+          "product_code": "Tshirt-005"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/07/ENruLsf3KdabNF4yLBPP6IMqGLp7dXOdazC8myXF.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-t-shirt-172",
+          "title": "Mens T Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-t-shirt-172",
+          "price": "TK 875",
+          "description": "Classic t-shirt with a twist of modern styling.",
+          "category": "Men's Casual Wear",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "White",
+              "Black",
+              "Green"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "casualCool",
+                  "rating": 5,
+                  "comment": "Great fit and comfortable fabric."
+              },
+              {
+                  "username": "styleAddict",
+                  "rating": 4,
+                  "comment": "Versatile t-shirt for various occasions."
+              }
+          ],
+          "product_code": "Tshirt-006"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/07/qHnMQPyhPlsOXExGLwb8hY0HW7E1dDaqqpkExDpv.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-t-shirt-171",
+          "title": "Mens T Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-t-shirt-171",
+          "price": "TK 875",
+          "description": "Casual t-shirt with a unique design.",
+          "category": "Men's Casual Wear",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Gray",
+              "Black"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "styleEnthusiast",
+                  "rating": 4,
+                  "comment": "Love the modern design!"
+              },
+              {
+                  "username": "casualCool",
+                  "rating": 5,
+                  "comment": "Comfortable and fashionable."
+              }
+          ],
+          "product_code": "Tshirt-010"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/07/6GP8cOAG6P2Tv8VJAUK7s16LbmMOyWtznEFElgdS.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-t-shirt-170",
+          "title": "Mens T Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-t-shirt-170",
+          "price": "TK 875",
+          "description": "Casual t-shirt with a trendy graphic.",
+          "category": "Men's Casual Wear",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "White",
+              "Black",
+              "Red"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "graphicLover",
+                  "rating": 5,
+                  "comment": "Awesome design and great fit!"
+              },
+              {
+                  "username": "casualChic",
+                  "rating": 4,
+                  "comment": "Perfect for casual outings."
+              }
+          ],
+          "product_code": "Tshirt-011"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/07/Z9WHgD1z56729eslMc8JhAcoogjeyaP2FtLbSVo7.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-t-shirt-190",
+          "title": "Mens T-Shirt",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-t-shirt-190",
+          "price": "TK 835",
+          "description": "Simple and comfortable everyday t-shirt.",
+          "category": "Men's Casual Wear",
+          "size": [
+              "S",
+              "M",
+              "L",
+              "XL"
+          ],
+          "colors": [
+              "Black",
+              "White",
+              "Gray"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "comfortFan",
+                  "rating": 4,
+                  "comment": "Soft fabric and great quality."
+              },
+              {
+                  "username": "everydayEssential",
+                  "rating": 5,
+                  "comment": "My go-to t-shirt for casual looks."
+              }
+          ],
+          "product_code": "Tshirt-012"
+      }
+  ],
+  "panjabi": [
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/06/xcYiudpiQxuv8vv8Xmf75FLdOqe1CX8losr9Rv92.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-premium-panjabi-4",
+          "title": "Mens Premium Panjabi",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-premium-panjabi-4",
+          "price": "TK 3,235",
+          "description": "Elegant and premium panjabi for special occasions.",
+          "category": "Men's Traditional Wear",
+          "size": [
+              "M",
+              "L",
+              "XL",
+              "XXL"
+          ],
+          "colors": [
+              "Navy Blue",
+              "Maroon"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "occasionStylish",
+                  "rating": 5,
+                  "comment": "Loved the rich color and design!"
+              },
+              {
+                  "username": "traditionalCharm",
+                  "rating": 4,
+                  "comment": "Perfect for weddings."
+              }
+          ],
+          "product_code": "Panjabi-001"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/06/wc5GWBrjFKXv6hB2ZSdkddlU6Fz92e08K00wYLpK.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-premium-panjabi-3",
+          "title": "Mens Premium Panjabi",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-premium-panjabi-3",
+          "price": "TK 3,235",
+          "description": "Exquisite panjabi for traditional events.",
+          "category": "Men's Traditional Wear",
+          "size": [
+              "M",
+              "L",
+              "XL",
+              "XXL"
+          ],
+          "colors": [
+              "Black",
+              "Gold"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "traditionalLover",
+                  "rating": 4,
+                  "comment": "Great combination of modern and traditional."
+              },
+              {
+                  "username": "elegantChic",
+                  "rating": 5,
+                  "comment": "The gold accents are stunning!"
+              }
+          ],
+          "product_code": "Panjabi-002"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/06/F2qTVecaWPbulND9Bh66UnVKtsIBLe8C9qPYvmKq.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-premium-panjabi-1",
+          "title": "Mens Premium Panjabi",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-premium-panjabi-1",
+          "price": "TK 3,235",
+          "description": "Sophisticated and stylish panjabi for special occasions.",
+          "category": "Men's Traditional Wear",
+          "size": [
+              "M",
+              "L",
+              "XL",
+              "XXL"
+          ],
+          "colors": [
+              "White",
+              "Silver"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "sophisticatedLook",
+                  "rating": 5,
+                  "comment": "The silver detailing is exquisite!"
+              },
+              {
+                  "username": "specialEvent",
+                  "rating": 4,
+                  "comment": "Received many compliments at the event."
+              }
+          ],
+          "product_code": "Panjabi-003"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/06/z3DhV4FGpCgMYIze37R58hZ6Gh9H67Y5GLWJzWoP.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-premium-panjabi-2",
+          "title": "Mens Premium Panjabi",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-premium-panjabi-2",
+          "price": "TK 3,235",
+          "description": "Premium panjabi with intricate embroidery for special occasions.",
+          "category": "Men's Traditional Wear",
+          "size": [
+              "M",
+              "L",
+              "XL",
+              "XXL"
+          ],
+          "colors": [
+              "Cream",
+              "Golden"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "elegantAffair",
+                  "rating": 5,
+                  "comment": "Elegant and royal look!"
+              },
+              {
+                  "username": "extravagantEvent",
+                  "rating": 4,
+                  "comment": "The embroidery work is top-notch."
+              }
+          ],
+          "product_code": "Panjabi-004"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/06/JC9wHKItgBzwQ1RFxD24R1CFcYYNhoiB0Bmtl2Cy.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-panjabi-326",
+          "title": "Mens Panjabi",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-panjabi-326",
+          "price": "TK 3,100",
+          "description": "Classic panjabi with a modern touch.",
+          "category": "Men's Traditional Wear",
+          "size": [
+              "M",
+              "L",
+              "XL",
+              "XXL"
+          ],
+          "colors": [
+              "White",
+              "Black"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "modernClassic",
+                  "rating": 4,
+                  "comment": "Perfect blend of tradition and modernity."
+              },
+              {
+                  "username": "timelessLook",
+                  "rating": 5,
+                  "comment": "Great fit and comfortable."
+              }
+          ],
+          "product_code": "Panjabi-005"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/06/5xpiY2OHXlzbN9k4J1V5esNDJJjJ1v4YtBU5K0ls.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-panjabi-325",
+          "title": "Mens Panjabi",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-panjabi-325",
+          "price": "TK 3,100",
+          "description": "Stylish and comfortable panjabi for various occasions.",
+          "category": "Men's Traditional Wear",
+          "size": [
+              "M",
+              "L",
+              "XL",
+              "XXL"
+          ],
+          "colors": [
+              "Blue",
+              "Brown"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "comfortableStyle",
+                  "rating": 4,
+                  "comment": "Perfect for long events."
+              },
+              {
+                  "username": "stylishLook",
+                  "rating": 5,
+                  "comment": "Love the unique color combination."
+              }
+          ],
+          "product_code": "Panjabi-006"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/06/3l8K0PdGQC0FuHJvTMhjvPjF6Cq9Exvr95VpkBLv.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-premium-panjabi-8",
+          "title": "Mens Premium Panjabi",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-premium-panjabi-8",
+          "price": "TK 2,735",
+          "description": "Exquisitely designed premium panjabi for a regal appearance.",
+          "category": "Men's Traditional Wear",
+          "size": [
+              "M",
+              "L",
+              "XL",
+              "XXL"
+          ],
+          "colors": [
+              "Maroon",
+              "Gold"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "regalLook",
+                  "rating": 5,
+                  "comment": "Absolutely stunning piece!"
+              },
+              {
+                  "username": "elegantAffair",
+                  "rating": 4,
+                  "comment": "Perfect for weddings."
+              }
+          ],
+          "product_code": "Panjabi-007"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/06/KdYvJbszX6JVTAQ8GEnC0itjhzfITkhlkb7vjtoq.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-panjabi-324",
+          "title": "Mens Panjabi",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-panjabi-324",
+          "price": "TK 2,575",
+          "description": "Elegant panjabi with intricate embroidery.",
+          "category": "Men's Traditional Wear",
+          "size": [
+              "M",
+              "L",
+              "XL",
+              "XXL"
+          ],
+          "colors": [
+              "Navy Blue",
+              "Silver"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "sophisticatedStyle",
+                  "rating": 5,
+                  "comment": "Great attention to detail."
+              },
+              {
+                  "username": "classicCharm",
+                  "rating": 4,
+                  "comment": "Highly recommended for formal occasions."
+              }
+          ],
+          "product_code": "Panjabi-008"
+      }
+  ],
+  "pant": [
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/05/n8Ngj1uKk6PCoVLbRxMVvqaE3uEHSKYkT8BbXtbV.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-denim-pant-120",
+          "title": "Mens Denim Pant",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-denim-pant-120",
+          "price": "TK 2,135",
+          "description": "Classic denim pant for casual comfort.",
+          "category": "Men's Bottoms",
+          "size": [
+              "30",
+              "32",
+              "34",
+              "36"
+          ],
+          "colors": [
+              "Blue",
+              "Black"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "casualStyle",
+                  "rating": 4,
+                  "comment": "Great fit and quality."
+              },
+              {
+                  "username": "comfortChoice",
+                  "rating": 5,
+                  "comment": "Highly comfortable for daily wear."
+              }
+          ],
+          "product_code": "Pant-001"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/05/rvIbdVnO0oxtx6KaODPlrTKYSzYI7Ead4PK7nkt2.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-denim-pant-126",
+          "title": "Mens Denim Pant",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-denim-pant-126",
+          "price": "TK 2,335",
+          "description": "Premium denim pant with a stylish design.",
+          "category": "Men's Bottoms",
+          "size": [
+              "30",
+              "32",
+              "34",
+              "36"
+          ],
+          "colors": [
+              "Indigo Blue",
+              "Grey"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "stylishLook",
+                  "rating": 5,
+                  "comment": "Love the modern look."
+              },
+              {
+                  "username": "fashionForward",
+                  "rating": 4,
+                  "comment": "Great addition to my wardrobe."
+              }
+          ],
+          "product_code": "Pant-002"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/05/2T1jjaf4AxhFBW3wrQHRhJr6AHKyLsDSJ80p98XX.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-denim-pant-121",
+          "title": "Mens Denim Pant",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-denim-pant-121",
+          "price": "TK 2,135",
+          "description": "Comfortable denim pant with a classic look.",
+          "category": "Men's Bottoms",
+          "size": [
+              "30",
+              "32",
+              "34",
+              "36"
+          ],
+          "colors": [
+              "Medium Blue",
+              "Dark Blue"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "casualChic",
+                  "rating": 4,
+                  "comment": "Perfect for casual outings."
+              },
+              {
+                  "username": "everydayEssential",
+                  "rating": 5,
+                  "comment": "A must-have in every wardrobe."
+              }
+          ],
+          "product_code": "Pant-003"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/05/vG4pdABYfM4714v1VgUu8uIb5gCoJce4HY7YWAsF.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-denim-pant-125",
+          "title": "Mens Denim Pant",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-denim-pant-125",
+          "price": "TK 2,135",
+          "description": "Classic denim pant with a versatile style.",
+          "category": "Men's Bottoms",
+          "size": [
+              "28",
+              "30",
+              "32",
+              "34"
+          ],
+          "colors": [
+              "Vintage Blue",
+              "Faded Blue"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "classicChoice",
+                  "rating": 4,
+                  "comment": "Perfect for everyday wear."
+              },
+              {
+                  "username": "versatileStyle",
+                  "rating": 5,
+                  "comment": "Goes well with any outfit."
+              }
+          ],
+          "product_code": "Pant-004"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/05/eLU0ZSOG5Z45HpX7CdVNQkraiK9NtneY1pFVn4IE.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-denim-pant-124",
+          "title": "Mens Denim Pant",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-denim-pant-124",
+          "price": "TK 2,035",
+          "description": "Comfortable denim pant with a classic touch.",
+          "category": "Men's Bottoms",
+          "size": [
+              "28",
+              "30",
+              "32",
+              "34"
+          ],
+          "colors": [
+              "Light Blue",
+              "Stone Wash"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "classicComfort",
+                  "rating": 4,
+                  "comment": "Perfect for casual days."
+              },
+              {
+                  "username": "timelessChoice",
+                  "rating": 5,
+                  "comment": "Timeless design and comfortable."
+              }
+          ],
+          "product_code": "Pant-006"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/05/o8D5Rka22iWm9Q1lJBtUEISG0c7gu4d47q0TEtZP.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-denim-pant-127",
+          "title": "Mens Denim Pant",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-denim-pant-127",
+          "price": "TK 2,235",
+          "description": "Stylish denim pant with a modern fit.",
+          "category": "Men's Bottoms",
+          "size": [
+              "30",
+              "32",
+              "34",
+              "36"
+          ],
+          "colors": [
+              "Charcoal Black",
+              "Dark Wash"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "modernStyle",
+                  "rating": 5,
+                  "comment": "Great fit and trendy look."
+              },
+              {
+                  "username": "stylishChoice",
+                  "rating": 4,
+                  "comment": "Impressed with the quality."
+              }
+          ],
+          "product_code": "Pant-005"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/05/MEplgQ9SjJWs55WheCbBoyJ611WAF9fwxlxlT6vu.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-denim-pant-139",
+          "title": "Mens Denim Pant",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-denim-pant-139",
+          "price": "TK 2,335",
+          "description": "High-quality denim pant with a stylish look.",
+          "category": "Men's Bottoms",
+          "size": [
+              "30",
+              "32",
+              "34",
+              "36"
+          ],
+          "colors": [
+              "Indigo Blue",
+              "Dark Wash"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "stylishLook",
+                  "rating": 5,
+                  "comment": "Loved the color and fit."
+              },
+              {
+                  "username": "highQuality",
+                  "rating": 4,
+                  "comment": "Great value for the price."
+              }
+          ],
+          "product_code": "Pant-007"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/05/mASERfeh3iWJxcciYWEpxoUz46jaTd3DuSKeA4ls.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-basic-denim-pant-7",
+          "title": "Mens Basic Denim Pant",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-basic-denim-pant-7",
+          "price": "TK 1,349",
+          "description": "Simple and comfortable basic denim pant.",
+          "category": "Men's Bottoms",
+          "size": [
+              "28",
+              "30",
+              "32",
+              "34"
+          ],
+          "colors": [
+              "Light Blue",
+              "Classic Denim"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "comfortableChoice",
+                  "rating": 4,
+                  "comment": "Very comfortable to wear."
+              },
+              {
+                  "username": "casualStyle",
+                  "rating": 5,
+                  "comment": "Perfect for casual outings."
+              }
+          ],
+          "product_code": "Pant-008"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/05/dkuoj8zEved02XfGFUVlMtMWxgfiM6RYmhAypL3i.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-basic-denim-pant-8",
+          "title": "Mens Basic Denim Pant",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-basic-denim-pant-8",
+          "price": "TK 1,349",
+          "description": "Classic basic denim pant with a timeless style.",
+          "category": "Men's Bottoms",
+          "size": [
+              "30",
+              "32",
+              "34",
+              "36"
+          ],
+          "colors": [
+              "Dark Blue",
+              "Stonewash"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "timelessStyle",
+                  "rating": 5,
+                  "comment": "Great fit and comfortable."
+              },
+              {
+                  "username": "classicChoice",
+                  "rating": 4,
+                  "comment": "Classic look, well made."
+              }
+          ],
+          "product_code": "Pant-009"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/05/bhkJBPxYnF8gCYuvpUyaGA3Hbjm3LbKs7IK795eG.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-basic-denim-pant",
+          "title": "Mens Basic Denim Pant",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-basic-denim-pant",
+          "price": "TK 1,349",
+          "description": "Versatile and comfortable basic denim pant.",
+          "category": "Men's Bottoms",
+          "size": [
+              "28",
+              "30",
+              "32",
+              "34",
+              "36"
+          ],
+          "colors": [
+              "Medium Blue",
+              "Vintage Wash"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "versatileChoice",
+                  "rating": 4,
+                  "comment": "Great for different occasions."
+              },
+              {
+                  "username": "comfortableStyle",
+                  "rating": 5,
+                  "comment": "Super comfortable to wear."
+              }
+          ],
+          "product_code": "Pant-010"
+      },
+      {
+          "image": "https://d2izus7yvo9igu.cloudfront.net/images/media/2023/05/ZAnppEaywnhXgo1TzQnuQvTrs2kQ9BcA7vElFYRy.jpg",
+          "url": "https://www.rise-brand.com/product-detail/mens-basic-denim-pant-6",
+          "title": "Mens Basic Denim Pant",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-basic-denim-pant-6",
+          "price": "TK 1,349",
+          "description": "Classic and comfortable basic denim pant.",
+          "category": "Men's Bottoms",
+          "size": [
+              "30",
+              "32",
+              "34",
+              "36",
+              "38"
+          ],
+          "colors": [
+              "Dark Blue",
+              "Faded Wash"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "classicStyle",
+                  "rating": 5,
+                  "comment": "Timeless look and fits perfectly."
+              },
+              {
+                  "username": "comfortableChoice",
+                  "rating": 4,
+                  "comment": "Comfortable for all-day wear."
+              }
+          ],
+          "product_code": "Pant-011"
+      }
+  ],
+  "shoe": [
+      {
+          "title": "Mens Shoe",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-shoe-5",
+          "price": "TK 2,895",
+          "description": "Classic and stylish men's shoe suitable for casual and semi-formal occasions.",
+          "category": "Men's Footwear",
+          "size": [
+              "8",
+              "9",
+              "10",
+              "11"
+          ],
+          "colors": [
+              "Brown",
+              "Black"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "classicLook",
+                  "rating": 4,
+                  "comment": "A must-have shoe for any wardrobe."
+              },
+              {
+                  "username": "versatileStyle",
+                  "rating": 5,
+                  "comment": "Looks great with jeans or chinos."
+              }
+          ],
+          "product_code": "Shoe-007"
+      },
+      {
+          "title": "Men's Shoe",
+          "title_url": "https://www.rise-brand.com/product-detail/men-s-shoe-1",
+          "price": "TK 3,095",
+          "description": "High-quality men's shoe crafted for maximum comfort and durability.",
+          "category": "Men's Footwear",
+          "size": [
+              "7",
+              "8",
+              "9",
+              "10"
+          ],
+          "colors": [
+              "Black"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "comfortableChoice",
+                  "rating": 5,
+                  "comment": "Very comfortable even during long walks."
+              },
+              {
+                  "username": "durableDesign",
+                  "rating": 4,
+                  "comment": "Impressed with the quality and build."
+              }
+          ],
+          "product_code": "Shoe-008"
+      },
+      {
+          "title": "MENS SHOE",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-shoe-23",
+          "price": "TK 3,000",
+          "description": "Sleek and modern men's shoe for everyday wear.",
+          "category": "Men's Footwear",
+          "size": [
+              "8",
+              "9",
+              "10",
+              "11"
+          ],
+          "colors": [
+              "Black",
+              "Navy"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "modernStyle",
+                  "rating": 4,
+                  "comment": "Great modern design and comfortable fit."
+              },
+              {
+                  "username": "dailyEssential",
+                  "rating": 5,
+                  "comment": "Perfect for daily wear."
+              }
+          ],
+          "product_code": "Shoe-004"
+      },
+      {
+          "title": "MENS SHOE",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-shoe-22",
+          "price": "TK 3,200",
+          "description": "Elegant and sophisticated men's shoe for formal occasions.",
+          "category": "Men's Footwear",
+          "size": [
+              "7",
+              "8",
+              "9",
+              "10"
+          ],
+          "colors": [
+              "Black"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "formalStyle",
+                  "rating": 5,
+                  "comment": "Adds a touch of class to any formal outfit."
+              },
+              {
+                  "username": "elegantChoice",
+                  "rating": 4,
+                  "comment": "Elegantly designed and comfortable to wear."
+              }
+          ],
+          "product_code": "Shoe-005"
+      },
+      {
+          "title": "MENS SHOE",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-shoe-21",
+          "price": "TK 3,000",
+          "description": "Comfortable and versatile men's shoe for all-day comfort.",
+          "category": "Men's Footwear",
+          "size": [
+              "6",
+              "7",
+              "8",
+              "9",
+              "10"
+          ],
+          "colors": [
+              "Brown"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "comfortableFit",
+                  "rating": 4,
+                  "comment": "Great cushioning and support for long wear."
+              },
+              {
+                  "username": "versatileChoice",
+                  "rating": 5,
+                  "comment": "Pairs well with various casual outfits."
+              }
+          ],
+          "product_code": "Shoe-006"
+      },
+      {
+          "title": "MENS SHOE",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-shoe-16",
+          "price": "TK 2,900",
+          "description": "Stylish and comfortable men's shoe.",
+          "category": "Men's Footwear",
+          "size": [
+              "8",
+              "9",
+              "10",
+              "11"
+          ],
+          "colors": [
+              "Black",
+              "Brown"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "stylishChoice",
+                  "rating": 4,
+                  "comment": "Great style and comfortable fit."
+              },
+              {
+                  "username": "casualComfort",
+                  "rating": 5,
+                  "comment": "Perfect for casual wear."
+              }
+          ],
+          "product_code": "Shoe-001"
+      },
+      {
+          "title": "MENS SHOE",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-shoe-25",
+          "price": "TK 3,000",
+          "description": "Classic and versatile men's shoe.",
+          "category": "Men's Footwear",
+          "size": [
+              "6",
+              "7",
+              "8",
+              "9",
+              "10"
+          ],
+          "colors": [
+              "Black",
+              "Brown"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "classicChoice",
+                  "rating": 4,
+                  "comment": "Timeless design and comfortable fit."
+              },
+              {
+                  "username": "versatileStyle",
+                  "rating": 5,
+                  "comment": "Can be worn with various outfits."
+              }
+          ],
+          "product_code": "Shoe-003"
+      },
+      {
+          "title": "MENS SHOE",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-shoe-18",
+          "price": "TK 3,100",
+          "description": "Premium quality men's shoe for a polished look.",
+          "category": "Men's Footwear",
+          "size": [
+              "7",
+              "8",
+              "9",
+              "10"
+          ],
+          "colors": [
+              "Black",
+              "Tan"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "premiumQuality",
+                  "rating": 5,
+                  "comment": "High-quality materials and excellent finish."
+              },
+              {
+                  "username": "sophisticatedStyle",
+                  "rating": 4,
+                  "comment": "Adds sophistication to any outfit."
+              }
+          ],
+          "product_code": "Shoe-002"
+      },
+      {
+          "title": "Men's Shoe",
+          "title_url": "https://www.rise-brand.com/product-detail/men-s-shoe-2",
+          "price": "TK 3,095",
+          "description": "Stylish and trendy men's shoe with a modern design.",
+          "category": "Men's Footwear",
+          "size": [
+              "6",
+              "7",
+              "8",
+              "9"
+          ],
+          "colors": [
+              "White"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "modernLook",
+                  "rating": 4,
+                  "comment": "Love the sleek and modern appearance."
+              },
+              {
+                  "username": "trendyStyle",
+                  "rating": 5,
+                  "comment": "Gets compliments everywhere I go."
+              }
+          ],
+          "product_code": "Shoe-009"
+      },
+      {
+          "title": "Men's Shoes",
+          "title_url": "https://www.rise-brand.com/product-detail/men-s-shoes",
+          "price": "TK 3,295",
+          "description": "High-quality men's shoes designed for both style and comfort.",
+          "category": "Men's Footwear",
+          "size": [
+              "7",
+              "8",
+              "9",
+              "10"
+          ],
+          "colors": [
+              "Brown",
+              "Black"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "stylishAndComfy",
+                  "rating": 5,
+                  "comment": "These shoes provide the best of both worlds."
+              },
+              {
+                  "username": "greatFit",
+                  "rating": 4,
+                  "comment": "Fits perfectly and looks great."
+              }
+          ],
+          "product_code": "Shoe-010"
+      },
+      {
+          "title": "Mens Shoe",
+          "title_url": "https://www.rise-brand.com/product-detail/mens-shoe-3",
+          "price": "TK 3,295",
+          "description": "Classic and versatile men's shoe suitable for various occasions.",
+          "category": "Men's Footwear",
+          "size": [
+              "6",
+              "7",
+              "8",
+              "9"
+          ],
+          "colors": [
+              "Black"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "allOccasions",
+                  "rating": 5,
+                  "comment": "Wear it to the office or a casual outing."
+              },
+              {
+                  "username": "timelessStyle",
+                  "rating": 4,
+                  "comment": "A timeless addition to any collection."
+              }
+          ],
+          "product_code": "Shoe-011"
+      },
+      {
+          "title": "Men's Half Shoes",
+          "title_url": "https://www.rise-brand.com/product-detail/men-s-half-shoes",
+          "price": "TK 3,310",
+          "description": "Stylish and comfortable half shoes for men.",
+          "category": "Men's Footwear",
+          "size": [
+              "8",
+              "9",
+              "10",
+              "11"
+          ],
+          "colors": [
+              "Brown"
+          ],
+          "stock_status": "In Stock",
+          "reviews": [
+              {
+                  "username": "halfShoesFan",
+                  "rating": 4,
+                  "comment": "Love the unique style of these half shoes."
+              },
+              {
+                  "username": "comfortPlusStyle",
+                  "rating": 5,
+                  "comment": "They provide both comfort and style."
+              }
+          ],
+          "product_code": "Shoe-012"
+      }
   ]
 }
